@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="#1E1D25">
+
+    <ImageView
+        android:id="@+id/ivCategorySpinner"
+        android:layout_width="59dp"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:src="@drawable/ic_other" />
+
+    <TextView
+        android:id="@+id/tvCategorySpinner"
+        android:layout_width="159dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="33dp"
+        android:layout_marginTop="2dp"
+        android:padding="10dp"
+        android:text="Category"
+        android:textColor="@android:color/white"
+        android:textSize="14sp" />
+
+</RelativeLayout>

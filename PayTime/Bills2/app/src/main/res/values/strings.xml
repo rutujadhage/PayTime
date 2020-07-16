@@ -1,0 +1,91 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="add_new_expense">Add New Expense</string>
+    <string name="amount">Amount</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="todays_expenses">Today\'s Expenses</string>
+    <string name="current_week_expenses">Current Week\'s Expenses</string>
+    <string name="total_expense">Total Expense - </string>
+    <string name="rupee_sym">₹</string>
+    <string name="expense_add_successfully">Expense Added Successfully..</string>
+    <string name="amount_empty_error">Amount can not be empty!!</string>
+    <string name="current_months_expenses">Current Month\'s Expenses</string>
+    <string name="add_new_category">Add New Category</string>
+    <string name="category">Category</string>
+    <string name="add_category">Add Category</string>
+    <string name="action_add_category">Add Category</string>
+    <string name="category_empty_error">Category can not be empty!!</string>
+    <string name="add_category_success">Category added successfully..</string>
+
+    <array name="drawer_items">
+        <item>Home</item>
+        <item>This Week</item>
+        <item>This Month</item>
+    </array>
+    <string name="app_name">PayTime</string>
+    <string name="create_account"><font color="#00ff00">text</font></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to Login</string>
+
+    <string name="task_description">What Needs to Get Done?</string>
+    <string name="task_priority">Priority Task</string>
+    <string name="task_date">Due Date</string>
+    <string name="demo_task">Make a working demo</string>
+    <string name="date_empty">Not Set</string>
+    <string name="action_save">Save</string>
+    <string name="action_reminder">Set Reminder</string>
+    <string name="action_delete">Delete Task</string>
+    <string name="ct_dsc_priority">Priority image</string>
+    <string name="settings">Settings</string>
+    <string name="pref_sortOrder_title">Sort Order</string>
+    <string name="pref_sortBy_title">Sort By:</string>
+    <string name="pref_summary">Choose an order to sort your tasks.</string>
+    <string name="pref_sortBy_default_label">Default</string>
+    <string name="pref_sortBy_due_label">Due Date</string>
+    <string name="reminder_title">Task Reminder</string>
+    <string name="task_completed_failed">Task not completed</string>
+    <string name="task_completed">Task completed</string>
+    <string name="deleting_task_failed">Deleting task failed</string>
+    <string name="deleting_task_successful">Task successfully deleted</string>
+
+    <string name="pref_sortBy_key" translatable="false">sort</string>
+    <string name="pref_sortBy_default" translatable="false">default</string>
+    <string name="pref_sortBy_due" translatable="false">due</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_expenses">Expenses</string>
+    <string name="menu_bills">Bills</string>
+    <string name="menu_reports">Reports</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_main3_navigation">Main3ActivityNavigation</string>
+    <string name="title_activity_main2_nav">Main2ActivityNav</string>
+    <string-array name="Category">
+
+        <item> Rent </item>
+        <item> Medical </item>
+        <item> Childcare </item>
+        <item> Transport </item>
+        <item> Grocery </item>
+        <item> Petcare </item>
+        <item> Vehicle </item>
+        <item> Travel</item>
+        <item> Food </item>
+        <item> Leisure </item>
+        <item> Shopping </item>
+        <item> Fuel </item>
+        <item> Entertainment</item>
+        <item> Gifts </item>
+        <item> Fitness </item>
+        <item> Home Repair </item>
+        <item> Pets </item>
+        <item> Other </item>
+    </string-array>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#1E1D25"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_expenses"
+            android:icon="@drawable/ic_expenses"
+            android:iconTint="@android:color/white"
+            android:title="Expenses" />
+        <item
+            android:id="@+id/nav_bills"
+            android:icon="@drawable/ic_bills"
+            android:iconTint="@android:color/white"
+            android:title="Upcoming Bills" />
+        <item
+            android:id="@+id/nav_reports"
+            android:icon="@drawable/ic_reports"
+            android:iconTint="@android:color/white"
+            android:title="Reports" />
+
+    </group>
+
+
+
+</menu>

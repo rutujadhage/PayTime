@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Spinner" parent="Widget.AppCompat.Spinner">
+        <item name="backgroundTint">@android:color/white</item>
+    </style>
+    <color name="colorPrimary">#3368EF</color>
+    <color name="colorPrimaryDark">#ABEEF9</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="red">#F44336</color>
+    <color name="black">#FBF9F9</color>
+    <color name="application_background">#ff23729a</color>
+    <color name="white">#fff6fdff</color>
+
+    <color name="bright_red">#ffab271b</color>
+    <color name="dark_red">#ffb51139</color>
+    <color name="grey">#ff8b8b8b</color>
+    <color name="dark_grey">#ff717171</color>
+
+    <color name="transparent">#FFFFFF</color>
+
+    <color name="light_blue">#ff42959a</color>
+    <color name="dark_blue">#ff23729a</color>
+    <drawable name="transparent_background">#00000000</drawable>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- List preference display values -->
+    <array name="expense_types">
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Transfer</item>
+        <item>Rent</item>
+        <item>Other</item>
+    </array>
+    <string-array name="pref_sortBy_entries">
+        <item>@string/pref_sortBy_default_label</item>
+        <item>@string/pref_sortBy_due_label</item>
+    </string-array>
+    <!-- List preference select values -->
+    <string-array name="pref_sortBy_values">
+        <item>@string/pref_sortBy_default</item>
+        <item>@string/pref_sortBy_due</item>
+    </string-array>
+</resources>
